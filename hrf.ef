@@ -1,6 +1,6 @@
 ############################################################################
 #                                                                          #
-#  HTTP Request/Response Filter -- etter.filter.hrf -- filter source file  #
+#  HTTP Request/Response Filter -- hrf.ef -- filter source file            #
 #                                                                          #
 #  by Jan Seidl (based on code from ALoR & NaGA)                           #
 #                                                                          #

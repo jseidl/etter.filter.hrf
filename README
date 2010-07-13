@@ -1,0 +1,6 @@
+HTTP Request/Response (Ettercap) Filter v1.0
+by Jan Seidl
+
+This Ettercap (http://ettercap.sourceforge.net/) filter rewrites 'https' strings from requests/responses to 'http', forcing data to be sent over the wire in plaintext.
+
+NOTE: Some websites require SSL connection but the user will still send his data even if the connection never get estabilished. This may be a noisy attack in some services that require the SSL connection.
